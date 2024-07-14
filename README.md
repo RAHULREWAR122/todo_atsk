@@ -7,8 +7,11 @@
 
  # how to start it
     
-    1. to start this project first you need to clone this project and after cloning install all required packages using command `npm i`  and after installing packages you are able to run it using command npm run start it will run.
+1. to start this project first you need to clone {git clone https://github.com/RAHULREWAR122/todo_atsk.git } this project and after cloning install all required packages using command `npm i`  and after installing packages you are able to run it using command npm run start it will run.
 
-    Live Link :  
+Github Clone Link : https://github.com/RAHULREWAR122/todo_atsk.git
+Github repo Link : https://github.com/RAHULREWAR122/todo_atsk
+Live Link :  https://todo-task-orpin.vercel.app/
+
     
 
